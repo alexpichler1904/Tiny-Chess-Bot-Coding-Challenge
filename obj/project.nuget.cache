@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGtP45I2xxXLkw7XkMG0f0GN64aiM+Kmq+CkvIdV4i0b2p6re8jasvq9XGF++j4B3U4u0mBAF4i71nWYb7HNGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\OneDrive - Johannes Kepler Universität Linz\\Programmieren privat\\C#\\Chess-Challenge\\Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\raylib-cs\\4.5.0.2\\raylib-cs.4.5.0.2.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
